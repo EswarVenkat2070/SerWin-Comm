@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Migees</string>
+    <string name="city">Ville</string>
+    <string name="cancel">Annuler</string>
+    <string name="country">Pay</string>
+    <string name="searchText">"Appuyez pour entrer manuellement l'emplacement. "</string>
+    <string name="icon">Icône</string>
+    <string name="details">Détails</string>
+    <string name="forecast">Prévoir</string>
+    <string name="temp">Température</string>
+    <string name="explore">"Explore plus! "</string>
+    <string name="call">"Appel d'urgence "</string>
+    <string name="manualLocation">"Entrer manuellement l'emplacement "</string>
+    <string name="getDirections">"Obtenir des directions "</string>
+    <string name="open">"Ouvrez maintenant "</string>
+    <string name="closed">Fermé</string>
+    <string name="lang">"Choisissez une autre langue "</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="bank">Banque</string>
+    <string name="amusementPark">"Parc d'attractions "</string>
+    <string name="ATM">"AU M "</string>
+    <string name="beautysalon">"Salon de beauté "</string>
+    <string name="bar">Bar</string>
+    <string name="carRepair">"Réparation automobile "</string>
+    <string name="florist">Fleuriste</string>
+    <string name="pharmacy">Pharmacie</string>
+    <string name="shoestore">"Magasin de chaussures "</string>
+    <string name="school">École</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="movietheater">Cinéma</string>
+    <string name="hospital">Hôpital</string>
+    <string name="gasstation">"Station-essence "</string>
+    <string name="postoffice">"Bureau de poste "</string>
+    <string name="spa">Spa</string>
+    <string name="shoppingmall">"Centre commercial "</string>
+    <string name="dialogLoading">Chargement</string>
+    <string name="dialogLocation">Récupération de l\'emplacement ..</string>
+    <string name="share">Partager l\'application</string>
+</resources>

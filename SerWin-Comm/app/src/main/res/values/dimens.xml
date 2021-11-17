@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+
+    <dimen name="standard_12">12dp</dimen>
+    <dimen name="standard_23">23dp</dimen>
+    <dimen name="standard_55">65dp</dimen>
+    <dimen name="standard_100">130dp</dimen>
+    <dimen name="standard_195">195dp</dimen>
+    <dimen name="standard_80">100dp</dimen>
+
+
+    <dimen name="standard_110">110dp</dimen>
+
+
+</resources>

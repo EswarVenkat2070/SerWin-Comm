@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Migees</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="call">Acil çağrı</string>
+    <string name="searchText">Manuel konuma girmek için dokunun.</string>
+    <string name="ATM">ATM</string>
+    <string name="bank">Banka</string>
+    <string name="bar">çizgi</string>
+    <string name="postoffice">Postane</string>
+    <string name="title_activity_maps">Harita</string>
+    <string name="shoppingmall">Alışveriş Merkezi</string>
+    <string name="lang">Farklı bir dil seç</string>
+    <string name="movietheater">Sinema</string>
+    <string name="details">ayrıntılar</string>
+    <string name="school">Okul</string>
+    <string name="manualLocation">Konumu manuel olarak girin</string>
+    <string name="explore">Daha fazlasını keşfedin!</string>
+    <string name="closed">Kapalı</string>
+    <string name="florist">Çiçekçi</string>
+    <string name="hospital">Hastane</string>
+    <string name="icon">ikon</string>
+    <string name="shoestore">Ayakkabı mağazası</string>
+    <string name="getDirections">Yol tarifi almak</string>
+    <string name="open">Şimdi aç</string>
+    <string name="amusementPark">Lunapark</string>
+    <string name="country">ülke</string>
+    <string name="pharmacy">Eczane</string>
+    <string name="forecast">tahmin</string>
+    <string name="carRepair">Araba tamiri</string>
+    <string name="restaurant">Restoran</string>
+    <string name="beautysalon">Güzellik Salonu</string>
+    <string name="spa">kaplıca</string>
+    <string name="gasstation">Gaz istasyonu</string>
+    <string name="temp">Sıcaklık</string>
+    <string name="city">Kent</string>
+    <string name="dialogLoading">Yükleniyor</string>
+    <string name="dialogLocation">Konum alınıyor ..</string>
+    <string name="share">Uygulamayı Paylaş</string>
+</resources>

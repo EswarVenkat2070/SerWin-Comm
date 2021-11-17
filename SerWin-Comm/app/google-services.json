@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118001442555",
+    "project_id": "serwin-comm",
+    "storage_bucket": "serwin-comm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118001442555:android:e436ae96e3f8b02cc55a5e",
+        "android_client_info": {
+          "package_name": "com.ase.serwincomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118001442555-vjdqt2tf693dudskj6hg57ratn9v2gbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXv_cjwoHQXaP_XVwa2jRYHB-98tlwDAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118001442555-vjdqt2tf693dudskj6hg57ratn9v2gbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

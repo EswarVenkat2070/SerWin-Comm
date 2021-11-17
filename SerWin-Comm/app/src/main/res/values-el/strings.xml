@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Migees</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="call">"Κλήση έκτακτης ανάγκης "</string>
+    <string name="searchText">"Πατήστε για να εισάγετε τη θέση με μη αυτόματο τρόπο. "</string>
+    <string name="ATM">ΑΤΜ</string>
+    <string name="bank">Τράπεζα</string>
+    <string name="bar">Μπαρ</string>
+    <string name="postoffice">"Ταχυδρομείο "</string>
+    <string name="title_activity_maps">Χάρτης</string>
+    <string name="shoppingmall">"Εμπορικό κέντρο "</string>
+    <string name="lang">"Επιλέξτε διαφορετική γλώσσα "</string>
+    <string name="movietheater">Κινηματογράφος</string>
+    <string name="details">Λεπτομέριες</string>
+    <string name="school">Schoo</string>
+    <string name="manualLocation">Εισαγάγετε μη αυτόματα τη θέση</string>
+    <string name="explore">Εξερευνήστε περισσότερα!</string>
+    <string name="closed">Κλειστό</string>
+    <string name="florist">Ανθοπώλης</string>
+    <string name="hospital">Νοσοκομείο</string>
+    <string name="icon">Εικόνισμα</string>
+    <string name="shoestore">Κατάστημα παπουτσιών</string>
+    <string name="getDirections">Πάρε οδηγίες</string>
+    <string name="open">Ανοιξε τώρα</string>
+    <string name="amusementPark">Λούνα παρκ</string>
+    <string name="country">Χώρα</string>
+    <string name="pharmacy">Φαρμακείο</string>
+    <string name="forecast">Πρόβλεψη</string>
+    <string name="carRepair">Επισκευή αυτοκινήτου</string>
+    <string name="restaurant">Εστιατόριο</string>
+    <string name="beautysalon">Ινστιτούτο αισθητικής</string>
+    <string name="spa">Ιαματική πηγή</string>
+    <string name="gasstation">βενζινάδικο</string>
+    <string name="temp">Θερμοκρασία</string>
+    <string name="city">"Πόλη "</string>
+    <string name="dialogLoading">Φόρτωση</string>
+    <string name="dialogLocation">Λήψη θέσης ..</string>
+    <string name="share">Κοινή χρήση εφαρμογής</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="backgroundActivity">#0d50bc</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="divider">#bcc0c6</color>
+    <color name="colorTransBg">#2600000F</color>
+    <color name="colorTransparent">#7F000000</color>
+    <color name="distanceColor">#ecf716</color>
+
+
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+
+    <color name="colorOpenNow">#00FF66</color>
+    <color name="colorClosed">#FF0000</color>
+
+    <color name="colorDirections">#e53250</color>
+    <color name="shareColor">#f73d8b</color>
+</resources>

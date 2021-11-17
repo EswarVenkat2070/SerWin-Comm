@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SerWin Comm</string>
+
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="Register">Register</string>
+
+    <!-- weather conditions xml -->
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="searchText">Tap to enter location manually..</string>
+    <string name="icon">Icon</string>
+    <string name="details">Details</string>
+    <string name="forecast">Forecast</string>
+    <string name="temp">Temperature</string>
+    <string name="explore">Explore more!</string>
+    <string name="call">Emergency Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="manualLocation">Enter location manually</string>
+
+    <!-- single page detials -->
+    <string name="lang">Choose a different language</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bank">Bank</string>
+    <string name="amusementPark">Amusement park</string>
+    <string name="ATM">ATM</string>
+    <string name="beautysalon">Beauty salon</string>
+    <string name="bar">Bar</string>
+    <string name="carRepair">Car repair</string>
+    <string name="florist">Florist</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="shoestore">Shoe store</string>
+    <string name="school">School</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="movietheater">Movie theater</string>
+    <string name="hospital">Hospital</string>
+    <string name="gasstation">Gas station</string>
+    <string name="postoffice">Post office</string>
+    <string name="spa">Spa</string>
+    <string name="shoppingmall">Shopping mall</string>
+
+    <string name="API_KEY" translatable="false">AIzaSyCUVxv4pjKRKWvwgE2ja36Iru-gaVtVFLM</string>
+
+    <string name="screenOne" translatable="false">ca-app-pub-4015398899801254/3142554698</string>
+    <string name="screenTwo" translatable="false">ca-app-pub-4015398899801254/2807512777</string>
+    <string name="screenThree" translatable="false">ca-app-pub-4015398899801254/7555091350</string>
+    <string name="mapAd" translatable="false">ca-app-pub-4015398899801254/9770191157</string>
+    <string name="bannerad" translatable="false">ca-app-pub-4015398899801254/1992376127</string>
+
+    <string name="dialogLoading">Loading..</string>
+    <string name="dialogLocation">Fetching location..</string>
+    <string name="share">Share app</string>
+
+    <string name="getDirections">Get Directions</string>
+    <string name="open">Open now</string>
+    <string name="closed">Closed</string>
+    <string name="maps">maps</string>
+
+</resources>
